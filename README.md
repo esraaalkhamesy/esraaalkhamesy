@@ -34,7 +34,7 @@ Here are some of my notable projects. [Explore More](https://www.behance.net/gal
 - **Yashmak Website**: An e-commerce site for traditional women's dresses.
 
 ### Links to GitHub Projects:  
-- [Agilw planning](https://github.com/users/esraaalkhamesy/projects/1)  
+- [Agile planning](https://github.com/users/esraaalkhamesy/projects/1)  
 
 
 ---
