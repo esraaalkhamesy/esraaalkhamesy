@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Esraa Mahmoud  
 
-Welcome to my GitHub! I'm an experienced **Product Owner** and **UX/UI Designer**, combining my passion for user-centered design with agile product management to deliver exceptional solutions.
+Welcome to my GitHub! I'm an experienced **UX/UI Designer** and Certified in **Agile development and Scrum**, combining my passion for user-centered design with agile product management to deliver exceptional solutions.
 
 ---
 
