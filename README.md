@@ -28,13 +28,13 @@ Welcome to my GitHub! I'm an experienced **UX/UI Designer** and Certified in **A
 ---
 
 ## 💻 Featured Projects  
-Here are some of my notable projects. [Explore More](https://portfolio.adobe.com/)  
-- **Pay Sky Website**: An online payment solutions platform.  
-- **Rescouts Website**: A platform for ordering food and reserving tables at restaurants in Canada.  
-- **Yashmak Website**: An e-commerce site for traditional women's dresses.  
+Here are some of my notable projects. [Explore More](https://www.behance.net/gallery/187274499/Case-Study-of-redesign-Kheir-zaman-app) 
+- **Pay Sky Website**: An online payment solutions platform. 
+- **Rescouts Website**: A platform for ordering food and reserving tables at restaurants in Canada. 
+- **Yashmak Website**: An e-commerce site for traditional women's dresses.
 
 ### Links to GitHub Projects:  
-- [Agilw planning](#https://github.com/users/esraaalkhamesy/projects/1)  
+- [Agilw planning](https://github.com/users/esraaalkhamesy/projects/1)  
 
 
 ---
